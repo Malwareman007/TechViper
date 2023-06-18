@@ -6,6 +6,9 @@
 
 TechViper is a powerful web security scanner that helps identify and detect vulnerabilities in web applications. It utilizes advanced techniques to comprehensively analyze web assets, providing users with detailed security assessments and enabling them to enhance the overall security posture of their web applications.
 
+![image](https://github.com/Malwareman007/TechViper/assets/86009160/595f25fb-c1cd-4a84-a91b-4e8294533215)
+
+
 ## Key Vulnerabilities Detected
 
 - Remote Code Execution (Linux)
