@@ -86,6 +86,10 @@ Options:
 ```shell
 $ python3 TechViper.py -u 'http://www.example.com/vuln.php?id=1'
 ```
+
+![Viper](https://github.com/Malwareman007/TechViper/assets/86009160/ffadc7e2-785c-44db-8aed-85a181688f3e)
+
+
 ### Scan multiple URLs from a file:
 ```shell
 $ python3 TechViper.py --list=targets.txt
